@@ -1,0 +1,13 @@
+C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.DataLayer.Tests\bin\Debug\SchoolApp.Repositories.Tests.dll.config
+C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.DataLayer.Tests\bin\Debug\SchoolApp.Repositories.Tests.dll
+C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.DataLayer.Tests\bin\Debug\SchoolApp.Repositories.Tests.pdb
+C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.DataLayer.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.DataLayer.Tests\bin\Debug\SchoolApp.DataLayer.dll
+C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.DataLayer.Tests\bin\Debug\SchoolApp.Models.dll
+C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.DataLayer.Tests\bin\Debug\SchoolApp.Repositories.dll
+C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.DataLayer.Tests\bin\Debug\SchoolApp.DataLayer.pdb
+C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.DataLayer.Tests\bin\Debug\SchoolApp.Models.pdb
+C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.DataLayer.Tests\bin\Debug\SchoolApp.Repositories.pdb
+C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.DataLayer.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.DataLayer.Tests\obj\Debug\SchoolApp.Repositories.Tests.dll
+C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.DataLayer.Tests\obj\Debug\SchoolApp.Repositories.Tests.pdb
