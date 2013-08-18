@@ -1,5 +1,0 @@
-C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.Models\bin\Debug\SchoolApp.Models.dll
-C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.Models\bin\Debug\SchoolApp.Models.pdb
-C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.Models\obj\Debug\SchoolApp.Models.csprojResolveAssemblyReference.cache
-C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.Models\obj\Debug\SchoolApp.Models.dll
-C:\Users\Ivaylo\Development\TelerikSoftwareAcademy\WebServices\WebServicesTesting-SchoolApp\SchoolApp.Models\obj\Debug\SchoolApp.Models.pdb
